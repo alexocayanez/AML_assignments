@@ -6,8 +6,10 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/.conda" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (AML_assignments)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="$MODULE_DIR$/.conda" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

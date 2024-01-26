@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="$PROJECT_DIR$/../../UU/INFOMAML/exercises/Ass 1/AML_RL" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (AML_assignments)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="$PROJECT_DIR$/.conda" project-jdk-type="Python SDK" />
 </project>
